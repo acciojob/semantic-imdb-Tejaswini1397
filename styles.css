@@ -1,2 +1,39 @@
 
 /* Your CSS Code here. */
+ <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    header {
+      text-align: center;
+      background-color: #333;
+      color: white;
+      padding: 10px;
+    }
+    nav {
+      text-align: center;
+      background-color: #444;
+      padding: 5px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+    section {
+      padding: 20px;
+      border: 1px solid #ccc;
+      margin: 10px;
+    }
+    aside {
+      text-align: center;
+      background-color: #eee;
+      padding: 10px;
+    }
+    footer {
+      text-align: center;
+      background-color: #333;
+      color: white;
+      padding: 10px;
+    }
+  </style>
